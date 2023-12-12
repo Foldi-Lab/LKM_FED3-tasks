@@ -6,7 +6,8 @@ These are original resources from Lex Kravitz and his team for use with the FED3
 The code is written in the Arduino language and is run on a Feather M0 Adalogger microcontroller inside of FED3. For information from the FED3 users community check out the Google group (https://groups.google.com/g/fedforum).
 
 
-![R-PR steps](https://github.com/Foldi-Lab/LKM_FED3-tasks/assets/88862221/b05e91a7-5acc-4a9a-80d7-5c2d22137f08)
+![FED reversal Kyna](https://github.com/Foldi-Lab/LKM_FED3-tasks/assets/88862221/53a29602-8967-4550-9da8-cc767a5ee076)
+
 
 
 Author: **Laura K Milton** (https://twitter.com/LauraKMilton) 
